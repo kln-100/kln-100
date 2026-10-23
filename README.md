@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/Developer-040406?style=for-the-badge&logo=gnubash&logoColor=e1122d" alt="Developer">
 </p>
 
-### Sobre mí
+### About me
 
-Trabajo en **ciberseguridad** y **desarrollo**: seguridad en la nube, detección y monitorización con SIEM, y aplicaciones web construidas con la seguridad como base.
+Student focused on **cybersecurity** and **development**: cloud security, detection and monitoring with SIEM, and building web applications with security in mind.
 
 ### Stack
 
@@ -22,15 +22,9 @@ Trabajo en **ciberseguridad** y **desarrollo**: seguridad en la nube, detección
   <img src="https://img.shields.io/badge/CSS-040406?style=for-the-badge&logo=css&logoColor=e1122d" alt="CSS">
 </p>
 
-<!-- Proyectos: añade una sección cuando publiques repos, por ejemplo:
-### Proyectos
-| Repo | Descripción |
+<!-- Projects: add a section once repos are public, e.g.
+### Projects
+| Repo | Description |
 | --- | --- |
-| [nombre](https://github.com/kln-100/nombre) | Qué hace en una línea |
+| [name](https://github.com/kln-100/name) | What it does in one line |
 -->
-
----
-
-<p align="center">
-  <sub>Contacto: abre un issue en cualquiera de mis repos</sub>
-</p>
