@@ -16,7 +16,6 @@ Student focused on **cybersecurity** and **development**: cloud security, detect
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-040406?style=for-the-badge&logo=linux&logoColor=e1122d" alt="Linux">
   <img src="https://img.shields.io/badge/Bash-040406?style=for-the-badge&logo=gnubash&logoColor=e1122d" alt="Bash">
-  <img src="https://img.shields.io/badge/Git-040406?style=for-the-badge&logo=git&logoColor=e1122d" alt="Git">
   <img src="https://img.shields.io/badge/JavaScript-040406?style=for-the-badge&logo=javascript&logoColor=e1122d" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-040406?style=for-the-badge&logo=html5&logoColor=e1122d" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-040406?style=for-the-badge&logo=css&logoColor=e1122d" alt="CSS">
